@@ -7,7 +7,7 @@ import PostView from "./features/posts/PostView"
 function App() {
   return (
     <>
-      <h1 className="text-5xl text-center font-semibold py-5 mb-10 bg-blue-500 text-white ">React Redux toolkit</h1>
+      <h1 className="text-4xl text-center font-semibold py-5 mb-10 bg-blue-500 text-white ">React Redux toolkit</h1>
       <CounterView />
       <PostView />
     </>
